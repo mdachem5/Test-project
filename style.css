@@ -1,0 +1,20 @@
+.total-from{
+    height: 770Px;
+    width: 400px;
+    background-color: rgb(177, 243, 23);
+    margin: 20px auto;
+    color: rgb(0, 0, 0);
+    box-shadow: 0px 0px 9px black;
+}
+H2{
+    margin-top: -35px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    padding-top: 30px;
+}
+.form{
+    padding-bottom: 30px;
+    padding-left: 100px;
+}
